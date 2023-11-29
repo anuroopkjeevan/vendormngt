@@ -71,11 +71,10 @@ Real-time Updates
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Technical Requirements
 Django version:  4.2.7
-Django REST Framework version: x.x
 RESTful API design
 Data validations
 Django ORM for database interactions
-Token-based authentication
+Token-based authentication  : Jwt token used for the authentication
 Testing
 Run the test suite:
 
